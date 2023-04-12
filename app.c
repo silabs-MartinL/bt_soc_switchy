@@ -44,7 +44,7 @@
 
 // Defines ---------------------------------------------------------------------
 #define TICK_TIMER_MS 100
-#define AD_NAME       "Blinky Martin"
+#define AD_NAME       "Blinky Example"
 
 // Function prototypes ---------------------------------------------------------
 static bool process_scan_response(
