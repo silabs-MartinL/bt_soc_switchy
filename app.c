@@ -83,6 +83,7 @@ SL_WEAK void app_init(void)
 	// Put your additional application init code here!                         //
 	// This is called once during start-up.                                    //
 	/////////////////////////////////////////////////////////////////////////////
+	app_log("\nBluetooth - SoC Switchy\n");
 	app_log("app_init()\n");
 	// Initialise strings
 	strcpy(app_states[0], "NONE");
